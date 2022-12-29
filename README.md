@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PHEONIX-HEMANT
+- 👋 Hi, I’m Hemant Faujdar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web dev.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on Web dev projects
 - 📫 How to reach me - hfaujdar58@gmail.com
 
